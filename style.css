@@ -1,0 +1,79 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    color: yellow;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+header, footer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    color: yellow;
+}
+
+p {
+    font-size: 18px;
+}
+
+section p {
+    text-indent: 20px;
+    margin: 10px 0;
+}
+
+section p:first-child {
+    font-weight: 700;
+    color: #2b2b2b;
+}
+
+footer {
+    font-size: 14px;
+    color: white;
+}
+section1 {
+    color: palevioletred;
+}
+section2 {
+    color: yellow;
+}
+section3 {
+    color: yellowgreen;
+}
+section4 {
+    color: blueviolet;
+}
+section5 {
+    color: blue;
+}
+section6 {
+    color: goldenrod;
+}
+section7 {
+    color: orange;
+}
+section8 {
+    color: orangered;
+}
+section9 {
+    color: aquamarine;
+}
+section10{
+    color: aquamarine;
+}
+section11 {
+    color: yellow;
+}
+section12 {
+    color: chocolate;
+}
+section13 {
+    color: brown;
+}
+section14{
+    color: darkcyan;
+}
